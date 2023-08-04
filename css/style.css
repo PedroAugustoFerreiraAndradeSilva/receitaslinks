@@ -1,0 +1,48 @@
+body {
+    background-color: gray;
+}
+
+#caixa {
+    background-color: rgb(240, 186, 9);
+    margin: 1% 20% 3%;
+}
+
+
+
+#imagem {
+    border-radius: 10px;
+    height: 200px;
+    width: 450px;
+    background: url('../assets/pexels-brigitte-tohm-131056.jpg') no-repeat top center/cover;
+    background-position: center center;
+    margin: 0px auto;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: right;
+    width: 450px;
+    margin: 0px auto;
+    color: rgba(128, 128, 128, 0.61);
+}
+
+ul {
+    line-height: 40px;
+}
+
+ol {
+    line-height: 40px;
+}
+
+#Paragrafo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
